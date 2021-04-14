@@ -37,11 +37,10 @@ Ask me anything <a href="https://github.com/0jxf/0jxf/issues/new"><b>here</b></a
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-black?style=flat-square&logo=Raspberry-Pi)
 ![Apache](https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache)
-![Nginx](https://img.shields.io/badge/-Nginix-black?style=flat-square&logo=Nginx)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![SublimeText](https://img.shields.io/badge/-Sublime-black?style=flat-square&logo=sublime-text)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code)
-![XAMPP](https://img.shields.io/badge/-XAMPP-black?style=flat-square&logo=xampp)
 <br>
 <hr>
 
