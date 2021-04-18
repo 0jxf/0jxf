@@ -23,7 +23,6 @@ Ask me anything <a href="https://github.com/0jxf/0jxf/issues/new"><b>here</b></a
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![VueJs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
