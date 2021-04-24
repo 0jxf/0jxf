@@ -25,6 +25,7 @@ Ask me anything <a href="https://github.com/0jxf/0jxf/issues/new"><b>here</b></a
 ![VueJs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
