@@ -11,7 +11,7 @@
 🌟 You have finally discovered my Github profile. <br><br><img src="https://i.pinimg.com/originals/f5/db/87/f5db871cf832e0625cb8bc43f2a712b9.gif" width="64" align="right">
 🌠 I am a full stack & software developer. Pretty much coding is my passion.<br>👨🏽‍💻 I'm really interested in cyber security and my goal is to learn more about it. <br>
 <small>⚡ Fun fact: I love anime<small><br><br>
-Ask me anything <a href="https://github.com/0jxf/0jxf/issues/new"><b>here</b></a> or <a href="http://twitter.com/udpkill"><b>contact me</b></a> on twitter.
+Ask me anything <a href="https://github.com/0jxf/0jxf/issues/new"><b>here</b></a> or <a href="http://twitter.com/veiaany"><b>contact me</b></a> on twitter.
 
 </div>
 
