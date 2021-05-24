@@ -44,7 +44,7 @@ Ask me anything <a href="https://github.com/0jxf/0jxf/issues/new"><b>here</b></a
 <h3>Profiles<h3>
 <a href="https://steamcommunity.com/id/0x00fff/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://instagram.com/_pmy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/udpkill" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/veiaany" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <img align="right" src="https://discord.c99.nl/widget/theme-4/273517255437058049.png">
 <br>
 <h3>Music<h3>
