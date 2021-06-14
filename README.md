@@ -40,10 +40,3 @@ and mainly work with <strong>`PHP`</strong> and <strong>`Python`</strong>.
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx)<br>
 ![SublimeText](https://img.shields.io/badge/-Sublime-black?style=flat-square&logo=sublime-text)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code) 
-
-<div align="center">
-<hr>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=0jxf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="0jxf's Github Stats" width=420><br>
-<img align="right" src="https://discord.c99.nl/widget/theme-4/273517255437058049.png">
-</div>
