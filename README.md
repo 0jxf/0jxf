@@ -9,7 +9,7 @@ and mainly work with <strong>`PHP`</strong> and <strong>`Python`</strong>.
 
 <h3>🛠️ Languages & Tools:</h3>
 
-<h5>Languages</h5>
+<h5>Languages & Libraries</h5>
 
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -25,6 +25,9 @@ and mainly work with <strong>`PHP`</strong> and <strong>`Python`</strong>.
 
 > ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![NuxtJs](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)<br>
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![VueJs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 
 
