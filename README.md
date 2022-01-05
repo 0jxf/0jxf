@@ -1,15 +1,5 @@
 <div align="left">
 
-<p>~ Aka Stokeley</p>
-  
-I make websites, bots, web scrapers, APIs<br>
-and mainly work with <strong>`Python`</strong>.
-</div>
-
-<img src="https://i.dlpng.com/static/png/6832204_preview.png" width="80">
-
-<h3>I also work with:</h3>
-
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)<br>
