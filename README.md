@@ -16,6 +16,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![VueJs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)  
 
 > ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
