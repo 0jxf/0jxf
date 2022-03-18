@@ -1,7 +1,6 @@
 <div align="left">
 
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
@@ -10,12 +9,13 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-> ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+> ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![NuxtJs](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)<br>
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![VueJs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![VueJs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)<br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)  
 
 > ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
