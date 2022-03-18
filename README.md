@@ -18,13 +18,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)  
 
-> ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+> ![SublimeText](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=sublime-text)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![AdobePhotoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat-square&logo=adobe%20photoshop)
-![AdobeIllustrator](https://img.shields.io/badge/-Adobe_Illustrator-black?style=flat-square&logo=adobe%20Illustrator)<br>
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)<br>
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-black?style=flat-square&logo=Raspberry-Pi)
 ![Apache](https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx)<br>
-![SublimeText](https://img.shields.io/badge/-Sublime-black?style=flat-square&logo=sublime-text)
+![AdobeIllustrator](https://img.shields.io/badge/-Adobe_Illustrator-black?style=flat-square&logo=adobe%20Illustrator)
+![AdobePhotoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat-square&logo=adobe%20photoshop)<br>
 ![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code) 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
