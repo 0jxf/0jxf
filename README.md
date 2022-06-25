@@ -1,5 +1,7 @@
 <div align="left">
 
+  🔰 Languages & Databases
+  
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -9,6 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
+  🧵 Frameworks & Libraries
 > ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![NuxtJs](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)<br>
@@ -18,6 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)  
 
+  ⚒ Tools & UI
 > ![SublimeText](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=sublime-text)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)<br>
