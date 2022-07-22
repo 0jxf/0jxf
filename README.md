@@ -17,9 +17,10 @@
 ![NuxtJs](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)<br>
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![VueJs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)<br>
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)<br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)  
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
+![VueJs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 
   ⚒ Tools & UI
 > ![SublimeText](https://img.shields.io/badge/-Sublime%20Text-black?style=flat-square&logo=sublime-text)
@@ -32,3 +33,4 @@
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat-square&logo=adobe%20photoshop)<br>
 ![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
